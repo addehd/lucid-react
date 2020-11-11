@@ -1,0 +1,12 @@
+{
+  "name": "luci",
+  "displayName": "luci",
+  "expo": {
+    "name": "luci",
+    "slug": "luci",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
